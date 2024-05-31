@@ -38,7 +38,7 @@ To install the MultiPDF Chat App, please follow these steps:
 ```commandline
 OPENAI_API_KEY=your_secrit_api_key
 ```
-
+ 
 ## Usage
 -----
 To use the MultiPDF Chat App, follow these steps:
