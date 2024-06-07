@@ -75,7 +75,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Alliance Collage Assistent AI")
+    st.header("EHE LMS Assistent AI")
     user_question = st.text_input("Ask a question about your documents:")
     if user_question:
         handle_userinput(user_question)
